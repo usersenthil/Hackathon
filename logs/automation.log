@@ -1,0 +1,147 @@
+14:48:49.087 [main] INFO  testCases.TC003 - click coperate options
+14:49:36.162 [main] INFO  testCases.TC003 - clicking of health insurance
+14:49:36.204 [main] INFO  testCases.TC003 - scroll down the page
+14:49:36.542 [main] INFO  testCases.TC003 - info is given
+14:49:36.782 [main] INFO  testCases.TC003 - clicking dropdown button and value is choosen
+14:49:38.819 [main] INFO  testCases.TC003 - validating the button is disabled
+14:49:46.154 [main] INFO  testCases.TC003 - validation of email
+14:49:46.248 [main] INFO  testCases.TC003 - verification of button is enabled or not
+14:50:06.006 [main] INFO  testCases.TC003 - validating the displayed message,and its is displayed
+14:53:24.986 [main] INFO  testCases.TC001 - Chennai is clicked
+14:53:44.669 [main] INFO  testCases.TC001 - dentist is clicked
+14:53:46.884 [main] INFO  testCases.TC001 - gender is choosen
+14:54:27.508 [main] INFO  testCases.TC001 - stories are choosen
+14:55:07.670 [main] INFO  testCases.TC001 - click experience
+14:55:09.818 [main] INFO  testCases.TC001 - clickingexperience
+14:55:50.821 [main] INFO  testCases.TC001 - click filters
+14:56:31.588 [main] INFO  testCases.TC001 - availability is choosen
+14:57:13.924 [main] INFO  testCases.TC001 - consult type is choosen
+14:58:45.397 [main] INFO  testCases.TC001 - sorting option
+14:59:11.575 [main] INFO  testCases.TC001 - surgery is clicked
+14:59:12.616 [main] INFO  testCases.TC001 - page is scrolled
+14:59:15.803 [main] INFO  testCases.TC001 - click coperate options
+15:00:02.233 [main] INFO  testCases.TC001 - clicking of health insurance
+15:00:02.310 [main] INFO  testCases.TC001 - scroll down the page
+15:00:02.695 [main] INFO  testCases.TC001 - info is given
+15:00:02.982 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+15:00:05.007 [main] INFO  testCases.TC001 - validating the button is disabled
+15:00:12.325 [main] INFO  testCases.TC001 - validation of email
+15:00:12.423 [main] INFO  testCases.TC001 - verification of button is enabled or not
+15:00:35.776 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
+15:05:01.695 [main] INFO  testCases.TC001 - Chennai is clicked
+15:05:44.032 [main] INFO  testCases.TC001 - dentist is clicked
+15:05:46.210 [main] INFO  testCases.TC001 - gender is choosen
+15:06:30.303 [main] INFO  testCases.TC001 - stories are choosen
+15:07:11.149 [main] INFO  testCases.TC001 - click experience
+15:07:13.329 [main] INFO  testCases.TC001 - clickingexperience
+15:07:54.221 [main] INFO  testCases.TC001 - click filters
+15:08:35.769 [main] INFO  testCases.TC001 - availability is choosen
+15:09:25.308 [main] INFO  testCases.TC001 - consult type is choosen
+15:10:46.198 [main] INFO  testCases.TC001 - sorting option
+15:10:46.900 [main] INFO  testCases.TC001 - doctor info is displayed
+15:10:52.011 [main] INFO  testCases.TC001 - surgery is clicked
+15:10:53.049 [main] INFO  testCases.TC001 - page is scrolled
+15:10:57.981 [main] INFO  testCases.TC001 - types of surguries is displayed
+15:10:58.133 [main] INFO  testCases.TC001 - click coperate options
+15:11:42.114 [main] INFO  testCases.TC001 - clicking of health insurance
+15:11:42.157 [main] INFO  testCases.TC001 - scroll down the page
+15:11:42.558 [main] INFO  testCases.TC001 - info is given
+15:11:42.781 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+15:11:44.821 [main] INFO  testCases.TC001 - validating the button is disabled
+15:11:52.096 [main] INFO  testCases.TC001 - validation of email
+15:11:52.223 [main] INFO  testCases.TC001 - verification of button is enabled or not
+15:12:12.677 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
+16:19:03.666 [main] INFO  testCases.TC001 - Chennai is clicked
+16:19:45.270 [main] INFO  testCases.TC001 - dentist is clicked
+16:19:47.472 [main] INFO  testCases.TC001 - gender is choosen
+16:20:28.220 [main] INFO  testCases.TC001 - stories are choosen
+16:21:09.035 [main] INFO  testCases.TC001 - click experience
+16:21:11.227 [main] INFO  testCases.TC001 - clickingexperience
+16:21:51.717 [main] INFO  testCases.TC001 - click filters
+16:22:11.928 [main] INFO  testCases.TC001 - availability is choosen
+16:22:16.932 [main] INFO  testCases.TC001 - consult type is choosen
+16:23:37.743 [main] INFO  testCases.TC001 - sorting option
+16:23:38.494 [main] INFO  testCases.TC001 - doctor info is displayed
+16:23:42.511 [main] INFO  testCases.TC001 - surgery is clicked
+16:23:43.552 [main] INFO  testCases.TC001 - page is scrolled
+16:23:48.371 [main] INFO  testCases.TC001 - types of surguries is displayed
+16:23:48.532 [main] INFO  testCases.TC001 - click coperate options
+16:24:35.875 [main] INFO  testCases.TC001 - clicking of health insurance
+16:24:35.914 [main] INFO  testCases.TC001 - scroll down the page
+16:24:36.290 [main] INFO  testCases.TC001 - info is given
+16:24:36.601 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+16:24:38.651 [main] INFO  testCases.TC001 - validating the button is disabled
+16:24:45.883 [main] INFO  testCases.TC001 - validation of email
+16:24:45.972 [main] INFO  testCases.TC001 - verification of button is enabled or not
+16:25:05.696 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
+16:28:33.263 [main] INFO  testCases.TC001 - Chennai is clicked
+16:29:20.463 [main] INFO  testCases.TC001 - dentist is clicked
+16:29:22.638 [main] INFO  testCases.TC001 - gender is choosen
+16:30:03.978 [main] INFO  testCases.TC001 - stories are choosen
+16:30:44.945 [main] INFO  testCases.TC001 - click experience
+16:30:47.249 [main] INFO  testCases.TC001 - clickingexperience
+16:31:28.568 [main] INFO  testCases.TC001 - click filters
+16:31:40.557 [main] INFO  testCases.TC001 - availability is choosen
+16:31:46.785 [main] INFO  testCases.TC001 - consult type is choosen
+16:33:07.007 [main] INFO  testCases.TC001 - sorting option
+16:33:07.958 [main] INFO  testCases.TC001 - doctor info is displayed
+16:33:12.551 [main] INFO  testCases.TC001 - surgery is clicked
+16:33:13.615 [main] INFO  testCases.TC001 - page is scrolled
+16:33:17.610 [main] INFO  testCases.TC001 - types of surguries is displayed
+16:33:17.708 [main] INFO  testCases.TC001 - click coperate options
+16:33:59.219 [main] INFO  testCases.TC001 - clicking of health insurance
+16:33:59.267 [main] INFO  testCases.TC001 - scroll down the page
+16:33:59.947 [main] INFO  testCases.TC001 - info is given
+16:34:00.530 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+16:34:02.595 [main] INFO  testCases.TC001 - validating the button is disabled
+16:34:09.981 [main] INFO  testCases.TC001 - validation of email
+16:34:10.176 [main] INFO  testCases.TC001 - verification of button is enabled or not
+16:34:41.087 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
+08:56:40.145 [main] INFO  testCases.TC001 - Chennai is clicked
+08:56:58.691 [main] INFO  testCases.TC001 - dentist is clicked
+08:58:38.641 [main] INFO  testCases.TC001 - Chennai is clicked
+08:59:19.830 [main] INFO  testCases.TC001 - dentist is clicked
+08:59:21.991 [main] INFO  testCases.TC001 - gender is choosen
+09:00:02.293 [main] INFO  testCases.TC001 - stories are choosen
+09:00:42.879 [main] INFO  testCases.TC001 - click experience
+09:00:45.025 [main] INFO  testCases.TC001 - clickingexperience
+09:01:25.379 [main] INFO  testCases.TC001 - click filters
+09:02:06.158 [main] INFO  testCases.TC001 - availability is choosen
+09:02:46.336 [main] INFO  testCases.TC001 - consult type is choosen
+09:04:06.081 [main] INFO  testCases.TC001 - sorting option
+09:04:07.316 [main] INFO  testCases.TC001 - doctor info is displayed
+09:04:32.388 [main] INFO  testCases.TC001 - surgery is clicked
+09:04:33.425 [main] INFO  testCases.TC001 - page is scrolled
+09:04:38.437 [main] INFO  testCases.TC001 - types of surguries is displayed
+09:04:38.592 [main] INFO  testCases.TC001 - click coperate options
+09:05:22.325 [main] INFO  testCases.TC001 - clicking of health insurance
+09:05:22.356 [main] INFO  testCases.TC001 - scroll down the page
+09:05:22.806 [main] INFO  testCases.TC001 - info is given
+09:05:23.076 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+09:05:25.117 [main] INFO  testCases.TC001 - validating the button is disabled
+09:05:32.363 [main] INFO  testCases.TC001 - validation of email
+09:05:32.457 [main] INFO  testCases.TC001 - verification of button is enabled or not
+09:05:44.937 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
+10:14:35.691 [main] INFO  testCases.TC001 - Chennai is clicked
+10:14:42.058 [main] INFO  testCases.TC001 - dentist is clicked
+10:14:44.324 [main] INFO  testCases.TC001 - gender is choosen
+10:14:47.352 [main] INFO  testCases.TC001 - stories are choosen
+10:14:50.117 [main] INFO  testCases.TC001 - click experience
+10:14:52.363 [main] INFO  testCases.TC001 - clickingexperience
+10:14:55.145 [main] INFO  testCases.TC001 - click filters
+10:14:57.684 [main] INFO  testCases.TC001 - availability is choosen
+10:15:00.539 [main] INFO  testCases.TC001 - consult type is choosen
+10:15:04.371 [main] INFO  testCases.TC001 - sorting option
+10:15:05.097 [main] INFO  testCases.TC001 - doctor info is displayed
+10:15:09.633 [main] INFO  testCases.TC001 - surgery is clicked
+10:15:10.738 [main] INFO  testCases.TC001 - page is scrolled
+10:15:16.143 [main] INFO  testCases.TC001 - types of surguries is displayed
+10:15:16.299 [main] INFO  testCases.TC001 - click coperate options
+10:15:24.715 [main] INFO  testCases.TC001 - clicking of health insurance
+10:15:24.778 [main] INFO  testCases.TC001 - scroll down the page
+10:15:25.400 [main] INFO  testCases.TC001 - info is given
+10:15:25.811 [main] INFO  testCases.TC001 - clicking dropdown button and value is choosen
+10:15:27.895 [main] INFO  testCases.TC001 - validating the button is disabled
+10:15:35.386 [main] INFO  testCases.TC001 - validation of email
+10:15:35.624 [main] INFO  testCases.TC001 - verification of button is enabled or not
+10:16:05.015 [main] INFO  testCases.TC001 - validating the displayed message,and its is displayed
